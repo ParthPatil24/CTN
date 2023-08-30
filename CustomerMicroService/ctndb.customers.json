@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "64ee19c7c63b6fb0d6e5d579"
+  },
+  "name": "Parth",
+  "age": 22,
+  "telno": "1234567890"
+},
+{
+  "_id": {
+    "$oid": "64ee1a3f158fb12707b2b995"
+  },
+  "name": "John",
+  "age": 26,
+  "telno": "4561237890",
+  "_class": "com.example.demo.entities.Customer"
+},
+{
+  "_id": {
+    "$oid": "64ee21eca4da1c6107170a88"
+  },
+  "name": "Henry",
+  "age": 34,
+  "telno": "789",
+  "_class": "com.example.demo.entities.Customer"
+}]
